@@ -25,3 +25,13 @@
 ## table
 
 两张表为pscode和mapcode查询表
+
+
+
+## result
+
+result文件夹用于存储mainspider爬取的数据
+
+命名格式以pscode_mapcode命名
+
+里面已经有部分爬取数据示例
